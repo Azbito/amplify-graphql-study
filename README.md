@@ -10,11 +10,11 @@ _It's a study in order to learn more about AWS services._
 
 ### Commands
 
-    ```amplify init```
-    ```amplify add api```
-    ```amplify push```
+    amplify init
+    amplify add api
+    amplify push
 
 ### To start
 
-    ```npm i```
-    ```npm run dev```
+    npm i
+    npm run dev
